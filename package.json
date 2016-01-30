@@ -1,0 +1,42 @@
+{
+  "name": "bad-words-chinese",
+  "version": "0.0.1",
+  "description": "A dirty word filter module supports Chinese and English",
+  "main": "./libs/filter",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pychen0918/bad-words-chinese.git"
+  },
+  "keywords": [
+    "words",
+    "profanity",
+    "filter",
+    "chinese",
+    "中文",
+    "過濾"
+  ],
+  "homepage": "https://github.com/pychen0918/bad-words-chinese",
+  "bugs": {
+    "url": "https://github.com/pychen0918/bad-words-chinese/issues",
+    "email": "pychen0918@gmail.com"
+  },
+  "dependencies": {
+    "badwords-list": "^1.0.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  },
+  "person":{
+    "name" : "Pei-yu Chen",
+    "email" : "pychen0918@gmail.com",
+    "url" : "http://pychen0918.blogspot.tw"
+  },
+  "license": "MIT"
+}
