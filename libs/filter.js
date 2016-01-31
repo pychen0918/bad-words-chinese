@@ -30,14 +30,14 @@
         },
         replaceWord: function(string, target){
             var t = "", i;
-            for(i=0; i<target.length; i++){
+            for(i=0; i < target.length; i++){
                 t += this.placeHolder;
             }
             return string.replace(new RegExp(target, 'g'), t);
         },
         cleanWord: function(word){
             var t = "", i;
-            for(i=0; i<word.length; i++){
+            for(i=0; i < word.length; i++){
                 t += this.placeHolder;
             }
             return t;
