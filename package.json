@@ -1,6 +1,6 @@
 {
   "name": "bad-words-chinese",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A dirty word filter module supports Chinese and English",
   "author": "Pei-yu Chen <pychen0918@gmail.com> (https://pychen0918.blogspot.tw/)",
   "homepage": "https://github.com/pychen0918/bad-words-chinese",
