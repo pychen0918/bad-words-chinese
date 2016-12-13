@@ -52,6 +52,12 @@ npm test
 ##Release Notes 更新紀錄
 - v1.0.0 / Feb 1 2016: First release
 
+## Credit 
+
+This is a derived work from the npm package bad-words from web-mech.
+The orginal work is located at:
+https://github.com/web-mech/badwords
+
 ## License 授權
 
 The MIT License (MIT)
