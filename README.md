@@ -54,7 +54,7 @@ npm test
 
 ## Credit 
 
-This is a derived work from the npm package bad-words from web-mech.
+This is a derived work from the npm package bad-words by *web-mech*.
 The orginal work is located at:
 https://github.com/web-mech/badwords
 
